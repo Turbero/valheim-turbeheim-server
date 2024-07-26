@@ -1,0 +1,7 @@
+MoveFolder:
+- From: plugins\turbero-Turbeheim\RandyKnapp-EpicLoot\
+  To: plugins\
+- From: plugins\turbero-Turbeheim\Smoothbrain-CreatureLevelAndLootControl\
+  To: plugins\
+- From: plugins\turbero-Turbeheim\OdinPlus-BeeQueen\
+  To: plugins\

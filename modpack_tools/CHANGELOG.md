@@ -1,0 +1,119 @@
+### 0.2.6
+
+* Corrección del invite de discord que había caducado, ahora es infinito
+
+### 0.2.5
+
+* Recuperación de ficheros eliminados por error del modpack
+
+### 0.2.4
+
+* Actualización de mods
+* Añadido mod para construir una lámpara grande como las de las torres Dvergr para alejar la niebla en un área a la redonda
+* Añadido mod para fertilizar plantas y hacerlas crecer al instante con monedas, semillas ancestrales o carne de Ymir (según la posición del inventario se consumirá una u otra)
+
+### 0.2.3
+
+* Actualización de mods
+* Stacks de trofeos de mods subidos a 50 y monedas a 5000
+* Distancia desde la que se usan los objetos de cofres automáticamente aumentada a 30 (estaba en 20)
+
+### 0.2.2
+
+* Restaurado fichero de FastLink
+* Nerfeado logro de matar fantasmas de bosque negro (demasiado OP)
+
+### 0.2.1
+
+* Actualización de mods
+* Bajado tiempo de hacer nuevos treasure hunts y bounties a un minuto
+* Corregido mods extras fuera del modpack, ya se pueden quitar (desinstalarlos o hacer un perfil nuevo con el modpack 0.2.1)
+
+### 0.2.0
+
+* Eliminado KGValheim mod
+
+### 0.1.9
+
+* Actualización de mods
+
+### 0.1.8
+
+* Añadidos mods para poner cofres en grid y borrar objetos con Suprimir
+* Otras mejoras y correcciones
+
+### 0.1.7
+
+* Autoreparación de todo al tocar las mesas de trabajo
+* Armería añadida
+
+### 0.1.6
+
+* Autostore arreglado
+
+### 0.1.5
+
+* Añadido mod para guardado automático en cofres 
+* Añadido mod para reparar automáticamente en mesas de trabajo
+* Actualización de otros mods
+
+### 0.1.4
+
+* Logros de matar enemigos corregidos
+
+### 0.1.3
+
+* Logro de matar lobos corregido
+
+### 0.1.2
+
+* Actualización de mods
+
+### 0.1.1
+
+* Actualización de mods
+* Ahora EpicLoot funciona con materiales, no con drops directos
+* Logros fastidiados eliminados para evitar activarse por defecto al crear el personaje
+
+### 0.1.0
+
+* Actualización de mods
+* WardIsLove añadido para evitar robos
+* Tumbas son removidas a las 24 horas
+
+### 0.0.9
+
+* Actualización de mods
+
+### 0.0.8
+
+* Actualización de mods
+
+### 0.0.7
+
+* Actualización de mods
+
+### 0.0.6
+
+* Actualización de mods y traducciones
+
+### 0.0.5
+
+* Actualización de mods
+
+### 0.0.4
+
+* Traducción de Almanac y logros nivelados
+
+### 0.0.3
+
+* Corrección de traducciones
+
+### 0.0.2
+
+* Corrección de mods
+
+
+### 0.0.1
+
+* Release inicial del modpack del servidor
