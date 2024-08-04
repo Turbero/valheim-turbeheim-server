@@ -1,3 +1,8 @@
+### 0.2.7
+
+* Actualización de mods
+* Las abejas sueltan ahora de 10 a 20 de miel (antes era de 5 a 10) 
+
 ### 0.2.6
 
 * Corrección del invite de discord que había caducado, ahora es infinito
