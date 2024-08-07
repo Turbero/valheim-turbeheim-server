@@ -1,10 +1,10 @@
 ﻿{
   "DefaultFeatureLevels": {
     "Sacrifice": 0,
-    "ConvertMaterials": -1,
-    "Enchant": -1,
-    "Augment": -1,
-    "Disenchant": -1
+    "ConvertMaterials": 0,
+    "Enchant": 0,
+    "Augment": 0,
+    "Disenchant": 0
   },
   "MaximumFeatureLevels": {
     "Sacrifice": 5,
@@ -23,7 +23,7 @@
       [ { "Item": "SurtlingCore", "Amount": 20 }, { "Item": "BlackMetal", "Amount": 4 }, { "Item": "TrophyGoblinShaman", "Amount": 1 } ]
     ],
     "ConvertMaterials": [
-      [ { "Item": "Wood", "Amount": 20 }, { "Item": "BoneFragments", "Amount": 4 }, { "Item": "Resin", "Amount": 10 } ],
+      null,
       [ { "Item": "FineWood", "Amount": 20 }, { "Item": "Chitin", "Amount": 4 }, { "Item": "Resin", "Amount": 20 } ],
       [ { "Item": "ElderBark", "Amount": 20 }, { "Item": "Root", "Amount": 5 }, { "Item": "Guck", "Amount": 20 } ],
       [ { "Item": "Obsidian", "Amount": 10 }, { "Item": "SerpentScale", "Amount": 5 }, { "Item": "FreezeGland", "Amount": 5 } ],
@@ -31,7 +31,7 @@
       [ { "Item": "YggdrasilWood", "Amount": 10 }, { "Item": "Mandible", "Amount": 8 }, { "Item": "GiantBloodSack", "Amount": 10 } ]
     ],
     "Enchant": [
-      [ { "Item": "DustMagic", "Amount": 5 }, { "Item": "SurtlingCore", "Amount": 3 }, { "Item": "Copper", "Amount": 2 } ],
+      null,
       [ { "Item": "DustMagic", "Amount": 5 }, { "Item": "GreydwarfEye", "Amount": 20 }, { "Item": "Bronze", "Amount": 2 } ],
       [ { "Item": "DustRare", "Amount": 5 }, { "Item": "Ooze", "Amount": 20 }, { "Item": "Iron", "Amount": 2 } ],
       [ { "Item": "DustRare", "Amount": 5 }, { "Item": "Crystal", "Amount": 20 }, { "Item": "Silver", "Amount": 2 } ],
@@ -39,7 +39,7 @@
       [ { "Item": "DustLegendary", "Amount": 5 }, { "Item": "Eitr", "Amount": 10 }, { "Item": "Bilebag", "Amount": 2 } ]
     ],
     "Augment": [
-      [ { "Item": "ShardMagic", "Amount": 3 }, { "Item": "SurtlingCore", "Amount": 3 }, { "Item": "Coins", "Amount": 200 } ],
+      null,
       [ { "Item": "ShardRare", "Amount": 3 }, { "Item": "SurtlingCore", "Amount": 10 }, { "Item": "Coins", "Amount": 100 } ],
       [ { "Item": "ShardEpic", "Amount": 3 }, { "Item": "Thunderstone", "Amount": 20 }, { "Item": "Coins", "Amount": 200 } ],
       [ { "Item": "ShardEpic", "Amount": 5 }, { "Item": "YmirRemains", "Amount": 20 }, { "Item": "Coins", "Amount": 300 } ],
@@ -47,7 +47,7 @@
       [ { "Item": "ShardLegendary", "Amount": 8 }, { "Item": "BlackCore", "Amount": 5 }, { "Item": "Coins", "Amount": 600 } ]
     ],
     "Disenchant": [
-      [ { "Item": "SurtlingCore", "Amount": 5 }, { "Item": "IronBountyToken", "Amount": 3 } ],
+      null,
       [ { "Item": "ForestToken", "Amount": 10 }, { "Item": "Dandelion", "Amount": 100 } ],
       [ { "Item": "ForestToken", "Amount": 30 }, { "Item": "MushroomYellow", "Amount": 100 } ],
       [ { "Item": "ForestToken", "Amount": 60 }, { "Item": "FishRaw", "Amount": 60 } ],
