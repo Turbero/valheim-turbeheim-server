@@ -1,3 +1,10 @@
+### 0.2.8
+
+* Actualización de mods
+* Añadido mods para potenciar la velocidad al pasar por distintos tipos de materiales. Sobre madera 1.1x y sobre piedra 1.3x más rápido
+* Añadido mod para teleportarse rápidamente entre los vendors y la cama mediante el uso de Waypoints (sin minerales en el inventario)
+* Los items del suelo fuera de piedras de hogar desaparecerán a las 3 horas de tiempo del server (antes eran 24 horas)
+
 ### 0.2.7
 
 * Actualización de mods

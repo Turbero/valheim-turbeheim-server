@@ -1,4 +1,4 @@
-set next_version="0.2.7"
+set next_version="0.2.8"
 set folder_name="MODPACK"
 set folder_config_origin="server_files\BepInEx\config"
 set folder_config_destiny="Bepinex\config"
@@ -26,6 +26,7 @@ copy "%~dp0%folder_config_origin%\randyknapp.mods.epicloot.cfg" "%~dp0%folder_na
 xcopy /S "%~dp0%folder_config_origin%\Almanac" "%~dp0%folder_name%\%folder_config_destiny%\Almanac"
 
 xcopy /S "%~dp0%folder_plugins_origin%" "%~dp0%folder_name%\%folder_plugins_destiny%"
+del "%~dp0%folder_name%\%folder_plugins_destiny%\RandyKnapp-EpicLoot\enchantingupgrades.json"
 
 set FILETOZIP="%~dp0%folder_name%"
 

@@ -1,6 +1,6 @@
 {
 	"name": "Turbeheim",
-	"version_number": "0.2.7",
+	"version_number": "0.2.8",
 	"website_url": "https://discord.gg/JKQR3EWRbU",
 	"description": "Modpack del servidor TURBEHEIM",
 	"dependencies": [
@@ -19,7 +19,7 @@
 "Digitalroot-Better_Wisps-1.0.38",
 "RandyKnapp-EpicLoot-0.10.1",
 "Azumatt-AzuCraftyBoxes-1.5.2",
-"WackyMole-WackysDatabase-2.4.23",
+"WackyMole-WackysDatabase-2.4.24",
 "Smoothbrain-CreatureLevelAndLootControl-4.6.1",
 "Therzie-Warfare-1.7.5",
 "Therzie-Monstrum-1.4.2",
@@ -42,6 +42,8 @@
 "Frogger-ChestSnap-0.0.3",
 "TastyChickenLegs-RecyclePlus-1.2.8",
 "nbusseneau-Instant_Fertilizer-0.3.0",
-"MidnightMods-Mistward-0.6.1"
-]
+"MidnightMods-Mistward-0.6.1",
+"RustyMods-UsefulPaths-1.0.3",
+"RustyMods-Waypoints-1.0.5"
+	]
 }
