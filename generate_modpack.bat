@@ -27,6 +27,7 @@ xcopy /S "%~dp0%folder_config_origin%\Almanac" "%~dp0%folder_name%\%folder_confi
 
 xcopy /S "%~dp0%folder_plugins_origin%" "%~dp0%folder_name%\%folder_plugins_destiny%"
 del "%~dp0%folder_name%\%folder_plugins_destiny%\RandyKnapp-EpicLoot\enchantingupgrades.json"
+del "%~dp0%folder_name%\%folder_plugins_destiny%\RandyKnapp-EpicLoot\enchantcosts.json"
 
 set FILETOZIP="%~dp0%folder_name%"
 
