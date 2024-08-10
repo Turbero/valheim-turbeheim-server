@@ -163,7 +163,7 @@
     {
       "ItemTypes" : [ "Trophy" ],
       "ItemNames" : [ "$item_trophy_seekerqueen" ],
-      "Products" : [ { "Item": "RunestoneLegendary", "Amount": 2 } ]
+      "Products" : [ { "Item": "RunestoneMythic", "Amount": 2 } ]
     },
     {
       "ItemTypes" : [ "Trophy" ],
@@ -176,6 +176,14 @@
         { "Item": "DustRare",    "Amount": 2 },
         { "Item": "EssenceRare", "Amount": 1 },
         { "Item": "ReagentRare", "Amount": 1 }
+      ]
+    },
+    {
+      "ItemNames" : [ "$item_wishbone" ],
+      "Products" : [
+        { "Item": "DustEpic",    "Amount": 2 },
+        { "Item": "EssenceEpic", "Amount": 1 },
+        { "Item": "ReagentEpic", "Amount": 1 }
       ]
     },
     {
@@ -205,9 +213,9 @@
     {
       "ItemNames" : [ "$item_seekerqueen_drop" ],
       "Products" : [
-        { "Item": "DustLegendary",    "Amount": 2 },
-        { "Item": "EssenceLegendary", "Amount": 1 },
-        { "Item": "ReagentLegendary", "Amount": 1 }
+        { "Item": "DustMythic",    "Amount": 2 },
+        { "Item": "EssenceMythic", "Amount": 1 },
+        { "Item": "ReagentMythic", "Amount": 1 }
       ]
     },
     {
