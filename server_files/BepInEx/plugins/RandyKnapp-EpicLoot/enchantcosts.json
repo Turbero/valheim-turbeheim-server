@@ -163,12 +163,12 @@
     {
       "ItemTypes" : [ "Trophy" ],
       "ItemNames" : [ "$item_trophy_seekerqueen" ],
-      "Products" : [ { "Item": "RunestoneMythic", "Amount": 2 } ]
+      "Products" : [ { "Item": "RunestoneMythic", "Amount": 1 } ]
     },
     {
       "ItemTypes" : [ "Trophy" ],
       "ItemNames" : [ "$item_trophy_fader" ],
-      "Products" : [ { "Item": "RunestoneMythic", "Amount": 1 } ]
+      "Products" : [ { "Item": "RunestoneMythic", "Amount": 2 } ]
     },
     {
       "ItemNames" : [ "$item_cryptkey" ],

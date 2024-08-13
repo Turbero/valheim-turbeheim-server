@@ -1,3 +1,9 @@
+### 0.2.9
+
+* Actualización de mods
+* Añadido mod para atacar con un Lox domesticado subido sobre él con su montura usando los botones del ratón (consume stamina del animal)
+* Ahora pueden caer de 1 a 3 fragmentos matando enemigos corruptos para los equipos de mago del mod Wizardry en todos los biomas inferiores a Mistlands
+
 ### 0.2.8
 
 * Actualización de mods
