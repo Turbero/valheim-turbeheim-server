@@ -1,6 +1,6 @@
 {
 	"name": "Turbeheim",
-	"version_number": "0.2.9",
+	"version_number": "0.3.0",
 	"website_url": "https://discord.gg/JKQR3EWRbU",
 	"description": "Modpack del servidor TURBEHEIM",
 	"dependencies": [
@@ -44,7 +44,8 @@
 "nbusseneau-Instant_Fertilizer-0.3.0",
 "MidnightMods-Mistward-0.6.1",
 "RustyMods-UsefulPaths-1.0.3",
-"RustyMods-Waypoints-1.0.6",
-"Azumatt-ILoxYou-1.0.6"
+"RustyMods-Waypoints-1.0.7",
+"Azumatt-ILoxYou-1.0.6",
+"RustyMods-PortalTweaks-1.0.1"
 	]
 }

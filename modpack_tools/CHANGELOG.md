@@ -1,3 +1,9 @@
+### 0.3.0
+
+* Actualización de mods
+* Añadido mod para transportar mascotas domadas por portales. Los portales necesitarían piedra como "energía" pero se ha eliminado esta necesidad (de nada).
+* ¡Cuidado con dejar lobos y loxes sueltos o acabarán muertos por los enemigos sin estar conectado!
+
 ### 0.2.9
 
 * Actualización de mods
