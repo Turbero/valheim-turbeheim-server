@@ -1,3 +1,8 @@
+### 0.3.1
+
+* Eliminación de mods sin uso que nunca funcionaron bien (las mascotas no se teleportaban por los portales)
+* Añadido mod para guardar tus mascotas en tu inventario (se necesita uno de hierro) e invocarlas luego donde quieras. ¡Hazte con todas! 
+
 ### 0.3.0
 
 * Actualización de mods
