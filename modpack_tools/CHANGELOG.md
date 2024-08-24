@@ -1,3 +1,12 @@
+### 0.3.2
+
+* Actualización de mods
+* Añadido mod en el servidor para evitar la congelación del juego cuando se salva el mundo cada 30 minutos
+* La mochila ahora se puede fabricar a nivel 1 de mesa de trabajo y maximizar a nivel 5 (antes empezaba en 2 y acababa en 6)
+* Stacks de todos los metales fabricados y varias comidas subidos a 50
+* La jalea real, soplo de jotunn y oroja de los magos ahora se pueden stacker hasta 150
+* El cofre de tesoros de la categoría de Misceláneo ahora sube un punto de comodidad
+
 ### 0.3.1
 
 * Eliminación de mods sin uso que nunca funcionaron bien (las mascotas no se teleportaban por los portales)
