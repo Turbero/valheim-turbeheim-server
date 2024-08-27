@@ -1,3 +1,8 @@
+### 0.3.3
+
+* Actualización de EpicLoot
+* Eliminado mod ServerCharacters porque ya no es compatible con el parche oficial del juego que salió hoy (bórralo si no creas perfil nuevo)
+
 ### 0.3.2
 
 * Actualización de mods
