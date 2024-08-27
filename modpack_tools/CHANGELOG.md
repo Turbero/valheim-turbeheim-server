@@ -1,3 +1,8 @@
+### 0.3.4
+
+* Actualización de mods
+* Añadido de nuevo ServerCharacters, el autor lo ha corregido
+
 ### 0.3.3
 
 * Actualización de EpicLoot

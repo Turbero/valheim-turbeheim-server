@@ -1,4 +1,4 @@
-set next_version="0.3.3"
+set next_version="0.3.4"
 set folder_name="MODPACK"
 set folder_config_origin="server_files\BepInEx\config"
 set folder_config_destiny="Bepinex\config"
