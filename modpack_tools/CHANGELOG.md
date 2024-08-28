@@ -1,3 +1,10 @@
+### 0.3.5
+
+* Actualización de mods
+* Stack de quitina subido a 150
+* Stacks de objetos varios de Ashlands subidos a 50 y otros a 150 (para evitar spoiler)
+* Efecto especial añadido cuando equipas el logro de matar 3 veces a La Reina
+
 ### 0.3.4
 
 * Actualización de mods
