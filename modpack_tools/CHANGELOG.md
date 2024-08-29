@@ -1,3 +1,9 @@
+### 0.3.6
+
+* Actualización de mods
+* Stack de obsidiana subido a 50
+* Stack de huesos de Ashlands subido a 150
+
 ### 0.3.5
 
 * Actualización de mods
